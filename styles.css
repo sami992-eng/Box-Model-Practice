@@ -1,0 +1,54 @@
+div.question-one {
+  width: 220px;
+  padding:0px;
+  border: 1px solid red;
+  margin: 0;
+}
+
+
+
+
+.question-two {
+  width: 220px;
+  padding:0px;
+  border: 1px solid green;
+  margin: 0px;
+}
+
+
+
+.question-three {
+  width: 220px;
+  padding:0px;
+  border: 1px solid blue;
+  margin: 0;
+}
+    
+
+
+.question-four {
+ width: 220px;
+  padding:11px;
+  border: 1px solid black;
+  margin: 0;
+  border-style: dotted;
+}
+
+
+
+.question-five {
+  width: 220px;
+  padding:3px;
+  border: 10px solid black;
+  margin: 0;
+    border-style: double ;
+  
+}
+
+.question-six {
+    width: 220px;
+  padding:6px;
+  border: 10px solid green;
+  margin: 5px;
+    border-style: double ;
+}
